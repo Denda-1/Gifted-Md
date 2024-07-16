@@ -11,32 +11,32 @@
     "MODE": {
       "description": "Put Mode either public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "DENDA"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": false,
-      "value": "254110853827"
+      "value": "233559762219"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
       "required": false,
-      "value": "true"
+      "value": ""
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
